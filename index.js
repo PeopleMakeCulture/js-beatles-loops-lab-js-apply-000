@@ -16,4 +16,3 @@ function theBeatlesPlay (musician, instrument){
 
 }
 
-console.log(theBeatlesPlay())
